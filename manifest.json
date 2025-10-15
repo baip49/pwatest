@@ -1,0 +1,35 @@
+{
+  "name": "Servicio Coyatoc",
+  "short_name": "Coyatoc",
+  "description": "Servicio_Telefonia_Celular",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "id": "./index.php",
+  "start_url": "./index.php",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./src/vistas/img/favicon.ico",
+      "sizes": "71x72",
+      "type": "image/ico"
+    },
+    {
+      "src": "./src/vistas/img/coyatocSA.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./src/vistas/img/repaCelular.jpeg",
+      "sizes": "217x232",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "./src/vistas/img/logoCoyatocSA.png",
+      "sizes": "71x72",
+      "type": "image/png"
+    }
+  ]
+}
