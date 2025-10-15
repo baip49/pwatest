@@ -1,0 +1,9 @@
+Resumen de lo implementado:
+✅ Conexión a MySQL con PDO de forma segura
+✅ Inserción de registros desde formularios POST
+✅ Sanitización de datos actualizada para PHP 8.2+
+✅ Encriptación de contraseñas con password_hash()
+✅ Prevención de SQL Injection con prepared statements
+✅ Validación de datos completa y robusta
+
+
